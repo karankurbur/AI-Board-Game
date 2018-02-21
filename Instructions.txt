@@ -1,0 +1,5 @@
+My program only works with depth level of 1.
+
+To change between minMax and alphabeta pruning, go playGame() 
+to around line 64-65. To switch between them, just comment one out.
+The game will end when there is a winner and will output to the file.
